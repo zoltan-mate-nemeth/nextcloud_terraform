@@ -1,5 +1,3 @@
-# nextcloud_terraform
-
 # Nextcloud Terraform Deployment
 
 This repository contains Terraform configurations to deploy a Nextcloud instance on AWS.
