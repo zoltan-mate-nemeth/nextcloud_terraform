@@ -1,0 +1,12 @@
+aws_region          = "us-east-1"
+vpc_cidr            = "10.0.0.0/16"
+subnet_cidr         = "10.0.1.0/24"
+ami_id              = "ami-xxxxxx"  # Replace with your AMI ID
+instance_type       = "t2.micro"
+domain_name         = "example.com"
+subdomain           = "nextcloud"
+email               = "your_email@example.com"
+mysql_root_password = "your_mysql_root_password"
+mysql_password      = "your_mysql_password"
+nextcloud_version   = "latest"
+public_key_path = "path/to/your/public_key.pub"
